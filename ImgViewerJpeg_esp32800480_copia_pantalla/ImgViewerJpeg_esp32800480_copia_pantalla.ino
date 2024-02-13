@@ -100,8 +100,8 @@ Arduino_RPi_DPI_RGBPanel *gfx = new Arduino_RPi_DPI_RGBPanel(
 #include "JpegFunc.h"
 
 
-const char* ssid = "Telecentro-2be3";
-const char* password = "GU3QFXA6FH47";
+const char* ssid = "Coneccion WIFI";
+const char* password = "Clave WIFI";
 
 const char* imageFileName = "/camimage.jpeg";
 
